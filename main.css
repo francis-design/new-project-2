@@ -1,0 +1,95 @@
+html{
+    height: 100%;
+}
+
+body{
+
+background-color: #4a5050;
+background-image: url(images/food.jpeg);
+background-size: cover;
+background-position: center;
+
+}
+
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
+
+header{
+height: 118px;
+text-align: center;
+
+
+
+}
+
+nav{
+    background-color:#0000004f;
+    text-align: center;
+    
+}
+
+main{
+height: 400px;
+text-align: center;
+padding-top: 80px;
+padding-left: 220px;
+padding-right: 220px;
+
+}
+
+footer{
+    background-color: #1414148a;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+
+}
+
+h1{
+    font-size: 84px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    
+}p{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+a{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 50px;
+    text-decoration: none;
+}
+nav a{
+text-decoration: none;
+font-size: 12px;
+padding-left: 12px;
+padding-right: 12px;
+
+
+}
+
+    
+footer p{
+
+    text-align: center;
+    font-size: 10px;
+}
+
+p a{
+    text-decoration: none;
+}
+
+.maps{
+    padding-bottom :100px; ;
+}
+
+
+
+    
+
